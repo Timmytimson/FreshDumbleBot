@@ -1,4 +1,4 @@
-""" Bobby B Bot common functions """
+""" Fresh D Bot common functions """
 
 # Standard library imports
 import re
