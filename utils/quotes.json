@@ -1,70 +1,126 @@
-[  
-   "IS THAT HOW YOU SPEAK TO YOUR KING??",
-   "YOU HEARD THE HAND, THE KING'S TOO FAT FOR HIS ARMOR! GO FIND THE BREASTPLATE STRETCHER! NOW!",
-   "THE WHORE IS PREGNANT!",
-   "[YOUR MOTHER WAS A DUMB WHORE WITH A FAT ARSE, DID YOU KNOW THAT?](https://i.imgur.com/g5SzSKk.gifv)",
-   "[COME, BOW BEFORE YOUR KING! BOW, YA SHITS!](https://i.imgur.com/hrCP6Uk.gifv)",
-   "GODS I WAS STRONG THEN",
-   "START THE DAMN JOUST BEFORE I PISS MESELF!",
-   "STOP THIS MADNESS, IN THE NAME OF YOUR KING!",
-   "A DOTHRAKI HORDE ON AN OPEN FIELD, NED!",
-   "GODS WHAT A STUPID NAME!",
-   "WINE! WINE! MOOOOOOOOAR WINE!",
-   "THANK THE GODS FOR BESSIE AND HER TITS",
-   "YOU GOT FAT!",
-   "THERE'S A WAR COMING, NED. I DON'T KNOW WHEN, I DON'T KNOW WHO WE'LL BE FIGHTING...BUT IT'S COMING!",
-   "OH, IT'S UNSPEAKABLE TO YOU? WHAT HER FATHER DID TO YOUR FAMILY, THAT WAS UNSPEAKABLE!",
-   "SOON ENOUGH, THAT CHILD WILL SPREAD HER LEGS AND START BREEDING!",
-   "DO YOU THINK IT'S HONOR THAT'S KEEPING THE PEACE?! IT'S FEAR! FEAR AND BLOOD!",
-   "CAREFUL, NED! CAREFUL NOW!",
-   "YOU'RE MY COUNCIL, COUNSEL! SPEAK SENSE TO THIS HONORABLE FOOL!",
-   "YOU'RE THE KING'S HAND! YOU'LL DO AS I COMMAND, OR I'LL FIND ME A HAND WHO WILL!",
-   "OUT! OUT, DAMN YOU! I'M DONE WITH YOU! GO, RUN BACK TO WINTERFELL! I'LL HAVE YOUR HEAD ON A SPIKE!",
-   "HOLD YOUR TONGUE!",
-   "WEAR IT IN SILENCE, OR I'LL HONOR YOU AGAIN!",
-   "PISS ON THAT! SEND A RAVEN! I WANT YOU TO STAY! I'M THE KING, I GET WHAT I WANT!",
-   "WHO NAMED YOU? SOME HALFWIT WITH A STUTTER??",
-   "IS THAT WHAT EMPTY MEANS??",
-   "I WARNED YOU THIS WOULD HAPPEN! BACK IN THE NORTH, I WARNED YOU, BUT YOU DIDN'T CARE TO HEAR! WELL, HEAR IT NOW!",
-   "WHY HAVE I NOT SEEN YOU? WHERE THE HELL HAVE YOU BEEN?",
-   "I'VE GOT SEVEN KINGDOMS TO RULE! ONE KING, SEVEN KINGDOMS!",
-   "MY, YOU'RE A PRETTY ONE! AND YOUR NAME IS?",
-   "OHHH, SHOW US YOUR MUSCLES! YOU'LL BE A SOLDIER!",
-   "TAKE ME TO YOUR CRYPT, I WANT TO PAY MY RESPECTS!",
-   "WE WERE AT WAR! NONE OF US KNEW IF WE WERE GONNA GO BACK HOME AGAIN!",
-   "THEY NEVER TELL YOU HOW THEY ALL SHIT THEMSELVES! THEY DON'T PUT THAT PART IN THE SONGS!",
-   "YOU EVER FUCK A RIVERLANDS GIRL?",
-   "YES, IT'S BEEN A LONG TIME... BUT I STILL REMEMBER EVERY FACE!",
-   "STUPID BOY!",
-   "HE COULD HAVE LINGERED ON THE EDGE OF THE BATTLE WITH THE SMART BOYS, AND TODAY HIS WIFE WOULD BE MAKING HIM MISERABLE, HIS SONS WOULD BE INGRATES, AND HE WOULD BE WAKING THREE TIMES IN THE NIGHT TO PISS INTO A BOWL!",
-   "SURROUNDED BY LANNISTERS! EVERY TIME I CLOSE MY EYES I SEE THEIR BLONDE HAIR AND THEIR SMUG, SATISFIED FACES!",
-   "IT MUST WOUND YOUR PRIDE! STANDING OUT THERE, LIKE A GLORIFIED SENTRY!",
-   "FORCED TO MIND THE DOOR WHILE YOUR KING EATS AND DRINKS AND SHITS AND FUCKS!",
-   "WE'RE TELLING WAR STORIES! WHO WAS YOUR FIRST KILL, NOT COUNTING OLD MEN?",
-   "DID YOU EVER MAKE THE EIGHT?",
-   "EASY, BOY! YOU MIGHT BE MY BROTHER BUT YOU'RE SPEAKING TO THE KING!",
-   "DID YOU HAVE TO BURY HER IN A PLACE LIKE THIS?",
-   "SHE BELONGED WITH ME!",
-   "SHE SHOULD BE ON A HILL SOMEWHERE WITH THE SUN AND THE CLOUDS ABOVE HER!",
-   "YOU LET THAT LITTLE GIRL DISARM YOU?",
-   "I'M NOT TRYING TO HONOR YOU, I'M TRYING TO GET YOU TO RUN MY KINGDOM WHILE I EAT, DRINK AND WHORE MY WAY TO AN EARLY GRAVE!",
-   "THAT'S ALL WHAT THE REALM IS NOW. BACKSTABBING AND SCHEMING AND ARSE-LICKING AND MONEY-GRUBBING!",
-   "ALL I WANTED TO DO WAS CRACK SKULLS AND FUCK GIRLS!",
-   "IN MY DREAMS, I KILL HIM EVERY NIGHT!",
-   "YOU HELPED ME WIN THE IRON THRONE, NOW HELP ME KEEP THE DAMN THING! WE WERE MEANT TO RULE TOGETHER!",
-   "I THOUGHT BEING KING MEANT I COULD DO WHATEVER I WANTED!",
-   "IT'S A GREAT CRIME TO LIE TO A KING!",
-   "THE GODS MOCK THE PRAYERS OF KINGS AND COWHERDS ALIKE!",
-   "BACKSTABBING DOESN'T PREPARE YOU FOR A FIGHT!",
-   "DRINK AND STAY QUIET, THE KING IS TALKING!",
-   "I WAS NEVER SO ALIVE AS WHEN I WAS WINNING THIS THRONE, OR SO DEAD AS NOW THAT I'VE WON IT!",
-   "GIVE ME SOMETHING FOR THE PAIN AND LET ME DIE!",
-   "I ASK YOU, NED, WHAT GOOD IS IT TO WEAR A CROWN?",
-   "THE GODS BE DAMNED! IT WAS A HOLLOW VICTORY THEY GAVE ME!",
-   "I SIT ON THE DAMN IRON SEAT WHEN I MUST. DOES THAT MEAN I DON'T HAVE THE SAME HUNGERS AS OTHER MEN?",
-   "A BIT OF WINE NOW AND AGAIN, A GIRL SQUEALING IN BED, THE FEEL OF A HORSE BETWEEN MY LEGS?",
-   "SEVEN HELLS, NED, I WANT TO HIT SOMEONE!",
-   "MORE THAN ONCE, I HAVE DREAMED OF GIVING UP THE CROWN!",
-   "TAKE SHIP FOR THE FREE CITIES WITH MY HORSE AND MY HAMMER, SPEND MY TIME WARRING AND WHORING, THAT’S WHAT I WAS MADE FOR!",
-   "THE SELLSWORD KING, HOW THE SINGERS WOULD LOVE ME!"
-]
+{
+    "kids": [
+        "Alles für die Kids, alles für die Kids!\nIch tu Alles für die Kinder, das ist kein Witz!",
+        "Kind, zieh dir 'ne helle Jacke an, wenn du im Dunkeln nach draußen gehst.\nUnd benutz gefälligst ein Kondom, wenn du heimlich mit deiner Schwester schläfst (ja, ich mein dich, Ron Weasley).",
+        "Ich war zwar kurz davor ein Heilmittel gegen Krebs zu entdecken - doch zuerst musste ich den Hip-Hop checken!",
+        "Alles für die Kids, alles für die Kids!\nIhr kriegt kein Gemüse von mir, sondern Pommes Frites!",
+        "Solange Dumbledore bei dir ist, wird dich niemand angreifen.\nSolange Dumbledore bei dir ist, kommt niemand an dich ran.\nSolange Dumbledore bei dir ist, wirst du nie gedisst - außer von mir, du Sumpfdotterschnepfe!"
+    ],
+    "post": [
+        "Yo, vielen lieben Thank und schönen Day noch!",
+        "Da kommt mein Postmann, bringt mir meine Post ran.\nWenn Winter ist, ist Frost dran, und wenn Sommer ist, hat er Shorts an!",
+        "Post für mich! Post für mich! Ich hab Post bekomm', da freu' ich mich!"
+    ],
+    "hoergeraet": [
+        "Hast du mein Hörgerät?",
+        "Wo ist mein Hörgerät? HÄ?",
+        "OH MAN, ICH BIN SO SAUER! HAST DU MEIN HÖRGERÄT? HÄ?",
+        "Ich bumse zum Beat mit Hörgerät im Ohr.",
+        "Ich bin sehr alt und auch senil. Ich denke nie und rede viel. Hast du mein Hörgerät?",
+        "Ich battle dich weg, du blöde Sau, denn du bist dumm und ich bin schlau. Hast du mein Hörgerät?"
+    ],
+    "haesslich": [
+        "Sie haben \"fett\" vergessen."
+    ],
+    "essen": [
+        "Yo yo yo Kinder, dann lasst uns mal fett was FRAYSN.",
+        "Fischstäbchen, Fischstäbchen sind so toll, ich mag Fischstäbchen total doll.\nYeah, Fischstäbchen von Kapitän Iglo - die steck ich mir in den Mund und auch in den Po, yo yo.",
+        "Das sind MEINE Bonbons, MEINE. Die hab ICH für MICH gekauft!",
+        "Oh, ich hoffe, jemand hat wieder Pizza weggeschmissen."
+    ],
+    "alt": [
+        "Sie sagen, Fresh D hat's nicht mehr drauf. Sie sagen, ich bin alt geworden. :'(",
+        "Arschfalten, doch wir sind immer noch die Alten.",
+        "Wingardium levi-fick-dich. Ja, ich altere, das bringt Mensch-Sein so mit sich. Ist das nicht witzig?",
+        "Hättste mal in Bio aufgepasst. Dann wüsstest du, jedes Lebewesen beisst irgendwann ins Gras.\nAusser Quallen! Die leben ewig. Sie ham auch kein Gehirn aber das brauchen sie zum Überleben eh nicht.\nDir geht's da wohl ähnlich.",
+        "Photoshop kann mir die Falten glätten, aber nicht vom Tode retten.\nIch kann mir die Haare färben, doch ich weiß, ich werde sterben.",
+        "Alles ist vergänglich. Also zieh' dich aus, ich bang' dich.",
+        "Oh, da hab ich wohl Dreck an meiner Brille.",
+        "Ich bin schon alt, ich bin bald tot, aus grün wird rot. *klatsch*",
+        "Nur weil ich gerade auf meinem eigenen Bart stehe und mich nicht bewegen kann, heißt das noch lange nicht, dass ich ein alter Tattergreis bin!",
+        "Ich steh' mit einem Fuß im Grab, weil ich grad' kein andren Schuh hab'.",
+        "Ich bin zwar alt und klapprig, aber ich habe trotzdem mehr Haare als du am Sa ... äh auf meiner Brust."
+    ],
+    "oma": [
+        "Heute Nacht schwimm' meine Zähne im Glas, während ich meinen Zauberstab für deine Oma glimmen lass'.",
+        "Du kommst mit deinen Brüdern, willst mir eine überzieh'n. Ich komm mit deiner Oma, if you know what I mean.",
+        "Hallo Schätzchen! Suchst du reife Frauen in deiner Umgebung? Dann ruf an! Eins eins eins eins eins eins eins eins... drei\n*Aufgeregtes Stöhnen* Eins eins eins eins eins eins eins eins eins eins... drei!\nJa, hallo, hier ist Madame Ursula...\nOooh, was hast du an?\nEin sehr hässliches geblümtes Omakopftuch und eine schmutzige Gartenschürze.\nGeil!",
+        "Oh mein Gott, ich glaub' es kaum, ich steh nur auf ält're Frau'n. Ich will nur die reifesten Pflaumen vom Baum.",
+        "Ich mag saftige Pflaumen voller Aroma.",
+        "Verdammte Mongo-Oma! Früher hat sie es ja echt noch gebracht, aber jetzt? Kannste echt in die Tonne kippen - in 'ne Biotonne oder in n' Komposthaufen.",
+        "Je oller, je doller.",
+        "Was geht, was geht, was geht! Siehst du meine Gangsta-Klamotten? Die hat deine Großmutter genäht! Und gehäkelt! Und gestrickt! Uuuuuund ich hab sie dafür gefickt!",
+        "Öy, ich hab' gerade deine Oma und dein Opa zusammen geknallt! Dabei bin ich tausend milliarden millionen Jahre alt!"
+    ],
+    "kaufen": [
+        "Von Wood kriegst du alles, ich kauf' jedes Mal Fresh-D.-Plüschpuppen im Sonderangebot. Kauf sie jetzt oder ich fick' dich tot.",
+        "Das sind MEINE Bonbons, MEINE. Die hab ICH für MICH gekauft!"
+    ],
+    "ente": [
+        "Ich war Entenfüttern im Park. Bevor ich dich gesehen hab', hatte ich 'n schönen Tag.",
+        "Ey das ist kein Ding, Harry, das macht überhaupt gar nix, denn das ist keine Ente, sondern ein Phönix.\nEin Phönix ist viel besser als ein Hund oder 'ne Katze, denn die haben nix drauf und ein Phönix steht aus seiner eig'nen Asche wieder auf.",
+        "'Oooh ne Taube!', sag ich, wenn ich an Tieren vorbei gehe."
+    ],
+    "pech": [
+        "Pech für dich, Pech für dich. Du hast Pech gehabt und ich nicht.",
+        "Ganz ruhig ... du bist der Junge, der am ENDE des Films stirbt - nicht in der MITTE!"
+    ],
+    "snape": [
+        "Snape, du dreckige Bitch, hast mich getötet!\nEy! Und deine Mudder, die hab' ich gekannt, die war hässlich!"
+    ],
+    "aufgeregt": [
+        "Ihr habt euch ja immer noch nicht beruhigt! Jetz beruhigt ihr euch mal! Warte, ich versuch's mal hiermit ...\n*Wirft Knallfrösche und dann Feuerwerk auf die Kids.*\nNaaa? Seid ihr schon entspannt?!",
+        "Jetzt reg dich mal nicht so auf und bleib geschmeidig! Mit 'geschmeidig bleiben' meinte ich, dass du Ruhe bewahren sollst und nicht die Aufforderung zum Geschlechtsverkehr. Das ist Doppeldeutigkeit, die Kids stehn auf sowas."
+    ],
+    "voldemort": [
+        "Guck' dir mal deine Todesser-Homies an. Siehst du nicht, wie jeder von denen unter dir leidet?\nEy, die sehen aus wie bei 'ner Faschingsfeier, wo sich jeder als Sido verkleidet.",
+        "Ha! Und du? Du steckst dir deine Schlange in den Arsch! Äh ... äh ... Barsch!",
+        "Gib's zu, du willst deine Schlange Nagini ficken. Ich würde die ja gleich zu 'Hässliche mutierte Scheiß-Tiere suchen ein Zuhause' schicken.",
+        "Lord Voldemort klingt zwar ganz cool, obwohl Lord Loser besser zu dir passt."
+    ],
+    "dumm": [
+        "Denk einfach nicht mehr daran, dass du dumm bist!",
+        "Es ist nicht so, wie du denkst, wenn du denkst, was ich denke, was du denkst. Denn das Denken der Gedanken ist ein denkenloses Denken, darum denke, nicht gedacht zu haben. Wenn du versuchst, daran zu denken, nicht daran zu denken, dass du dumm bist, obwohl du nicht dumm bist - was hast du dann gedacht? Hä? Hä!",
+        "Komplett bescheuert, komplett bescheuert. Das ist komplett bescheuert, komplett bescheuert."
+    ],
+    "liebe": [
+        "Liebe, Harry ... Liebe.",
+        "BÄNG Ich ziel auf deinen Arsch und dann macht es 'klick'. Ich baller dein' Arsch weg mit diesem Arschfick.\nBÄNG Dein Arsch ist grade explodiert. BÄNG Ich bin in dir ejakuliert.",
+        "Wenn du denkst, es geht nicht mehr, kommt von irgendwo ein Fresh Dumbledore her.",
+        "Wenn du denkst, du bist allein, dann denk an mich und denk an diesen Rhyme.",
+        "Eine Überlebensregel auf der Straße lautet: Es schadet nicht eine Waffe mit großem Kaliber zu haben. Hehehe",
+        "Haha, Bang Bang! Ich knall' dich, äh, ab, verstehste? Ich habe eine 'geladene Waffe', hehe!",
+        "Yo Kids und Kompostis, Ladies and Gentlemen, Madames et Messieurs, Bitches und Hundesöhne - ich bin Fresh D und ich suche einen Partner!",
+        "Das Leben als super famous Rapstar ist manchmal ziemlich lonely. Ich suche mir ein Girl, sie wird meine one and only."
+    ],
+    "freshdumbledore": [
+        "Ich bin zurückgekomm'n wie Terminator. Du fährst BMW und ich fahr' Rollator.",
+        "Meine Pornosammlung ist die größte der Welt. Hab' sie alle bei Woods Sooper Dooper Shop bestellt.",
+        "Ich bin wie Gott, nur cooler. Ich bin wie der Weihnachtsmann, nur schwuler.",
+        "Ey, Lupin! Netter Schwanz!",
+        "Weiche, Abschaum.",
+        "Das sind meine freshen Homies. Die haben Sonderrechte!",
+        "Ich weiß noch, als sie das Telefon erfunden haben! Das war neunzehnhunderterzwölfundachtzig!",
+        "Liebe, Harry ... Liebe.",
+        "Komm rein, komm raus, macht mir nichts aus.\nDas ist Fresh Dumbledores Büroeingang. Komm endlich rein, man!",
+        "Jo und jetzt verzeihst du dich mal, denn draußen gibt es noch eine Tüte Gummibärchen, alles klärchen?",
+        "Fresh D vs MCV. Das Battle endet nie. Kunstwissenschaft vs Philosophie, yeah.",
+        "Woah, fettes Graffiti! Alle, die nicht auf HipHop stehen, sollen sich jetzt verpissen!",
+        "Ihhh ich hab dich angefasst!",
+        "Harry, was hast du denn da auf der Stirn? Eine Matheformel? Wir unterrichten doch gar kein Mathe hier an der Schule, mein Junge! Die brauchst du doch gar nicht! Außerdem kannst du die eh nicht lesen, weil die auf deiner Stirn ist. Höhö, du bist so dumm!",
+        "Halt die Schnauze, ich kann nichts sehen!",
+        "Hagrid, halt mal deine fette Fresse!",
+        "So langsam hab ich das Gefühl ihr mögt meine Raps gar nicht und macht nur Anstandsklatschen, egal was ich sage.",
+        "Ich mein' das gar nicht böse, wenn ich sage, du bist scheiße.",
+        "Yo, ich bin Fresh Dumbledore, komm einfach so durch deine Door. Greif mir lässig an die Hooden, check meine HipHop-Klamotten.",
+        "So, dann komm' ich mal mit viel Gebrumm um meinen gepimpten Rapper-Desk herum und drück' dir diese Urkunde in die Hand!\nUnd du bist sicher schon gespannt, denn draußen kriegst du noch ein Geschenk!\nWer hätte das gedenkt? 'Ne Tüte Gummibärchen! Alles klärchen?",
+        "Sooo jetzt haltet mal alle eure Schnauzen!",
+        "Ja, wenn das mal nicht der Udo ist, dich hört man ja schon von weitem!",
+        "Geh kacken!",
+        "Yeah, erst kack ich mich an, dann kack ich dich an, dann mich selbst noch ein bisschen mehr.\nIch scheiße, wenn ich rede, ich scheiße, wenn ich lache.\nScheiße, Scheiße, Scheiße ist das, was ich mache.",
+        "Hey du, hast über mich gelästert?! Ich battle dich jetzt sowas von weg. Ich hau dir die Fresse kaputt!\nDann kannst du deine Zähne als Ohrring tragen!",
+        "Yo man, biste clever - lad Fresh D ein, haste die fetteste Party ever!\nIch bring Bitches Ü90 mit, die sind alle noch fit im Schritt!",
+        "Ich bin nett, ich bin phat, ich bin down with that. Ich hab Cash, ich bin fresh!",
+        "Ein Arschgeweih 5 €!"
+    ]
+}

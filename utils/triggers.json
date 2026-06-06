@@ -1,5 +1,18 @@
-[  
-    "bobby b",
-    "bobbyb",
-    "bobby-b"
- ]
+{
+    "kids":         ["kids", "kidz", "kinder"],
+    "post":         ["\\bpost\\b", "\\bbitte\\b", "gern geschehen", "danke"],
+    "hoergeraet":   ["h[öo]rger[äa]t"],
+    "haesslich":    ["h[äa]sslich"],
+    "essen":        ["\\bessen\\b", "\\bfress", "\\bhunger\\b", "fischst[äa]bchen", "pizza", "bonbon", "pommes"],
+    "alt":          ["\\balt\\b", "altern", "\\balter\\b", "verg[äa]nglich"],
+    "oma":          ["\\boma\\b", "gro[ßs]mutter", "omi"],
+    "kaufen":       ["kaufen", "gekauft", "einkaufen"],
+    "ente":         ["\\bente\\b", "entchen", "enten"],
+    "pech":         ["\\bpech\\b", "\\bschade\\b"],
+    "snape":        ["snape"],
+    "aufgeregt":    ["aufgeregt", "aufregung", "nerv[öo]s", "\\bstress\\b"],
+    "voldemort":    ["\\bmcv\\b", "\\bvoldi\\b", "voldemort", "\\briddle\\b"],
+    "dumm":         ["\\bdumm\\b", "\\bdoof\\b", "bl[öo]d"],
+    "liebe":        ["\\bliebe\\b"],
+    "freshdumbledore": ["fresh\\s*d\\b", "fresh dumbledore", "dumbledore", "\\balbus\\b"]
+}

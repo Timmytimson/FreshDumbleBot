@@ -17,7 +17,7 @@ import praw.exceptions
 sys.path.insert(0, os.path.abspath('..'))
 
 # Local application imports
-from utils.core import get_env, get_username, is_keyword_mentioned, get_random_quote # bot standard functions
+from utils.core import get_env, get_username, is_keyword_mentioned, get_random_quote, get_matching_categories
 
 # validate all mandatory files exist before starting
 assert os.path.isfile('../utils/logging_config.ini') # Logs config file
@@ -87,10 +87,12 @@ if __name__ == '__main__':
                 # If we haven't replied to this comment before and the comment author is not blocked
                 if comment.id not in posts_replied_to and username not in users_list:
                     
-                    if is_keyword_mentioned(comment.body):
+                    categories = get_matching_categories(comment.body)
+                    if categories:
+                        quote = get_random_quote(categories)
 
                         # Reply to the post and write activity to the log
-                        comment.reply(get_random_quote())
+                        comment.reply(quote)
                         logger.info("Replied to comment in subreddit '{}'".format(comment.subreddit))
 
                         # Store the current id into our list
