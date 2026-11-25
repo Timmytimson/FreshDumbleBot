@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developers.reddit.com/schema/config-file.v1.json",
+  "name": "fresh-dumble-bot",
+  "server": {},
+  "triggers": {
+    "onCommentCreate": "/internal/on/comment/create"
+  },
+  "scripts": {
+    "dev": "npm run watch"
+  },
+  "dev": {
+    "subreddit": "fresh_dumble_bot_dev"
+  }
+}
